@@ -28,18 +28,21 @@ const styles = StyleSheet.create({
   },
 
   text: {
-    fontSize: 20,
+    fontSize: 30,
     color: 'white',
+    fontFamily: 'Carattere-Regular',
   },
 
   desc: {
     fontSize: 14,
     textAlign: 'justify',
+    fontFamily: 'Nunito-Regular',
   },
 
   title: {
-    fontSize: 28,
-    fontWeight: 'bold',
+    fontSize: 42,
+    // fontWeight: 'bold',
     marginBottom: 20,
+    fontFamily: 'RubikDoodleShadow-Regular',
   },
 });
