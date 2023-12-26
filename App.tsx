@@ -34,9 +34,9 @@ const styles = StyleSheet.create({
   },
 
   desc: {
-    fontSize: 14,
+    fontSize: 18,
     textAlign: 'justify',
-    fontFamily: 'Nunito-Regular',
+    fontFamily: 'Nunito-Light',
   },
 
   title: {
